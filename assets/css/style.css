@@ -23,7 +23,7 @@ header {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("../Images/hero-bg.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -89,7 +89,7 @@ section {
 }
 /* Hero Style Start */
 .hero {
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("../Images/hero-bg.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -327,11 +327,6 @@ section {
 .contact h2 {
     color: var(--primary-color);
 }
-
-.contact-info iframe {
-  
-}
-
 .contact-info div {
  
     color: white;
